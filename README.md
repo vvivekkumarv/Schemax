@@ -1,1 +1,1 @@
-# Schemax
+# Schemax interest calculator
